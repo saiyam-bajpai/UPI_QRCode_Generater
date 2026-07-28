@@ -18,4 +18,11 @@ This script takes a simple **UPI ID** (e.g., `user@upi`) and instantly generates
 ### 🛠️ How to Run
 1. Install the library:
    ```bash
-   pip install qrcode[pil]   
+   pip install qrcode[pil]
+
+### 🔮 Future Roadmap
+While currently a static script, I plan to evolve this into a live application:
+
+$ \color{orange}{\text{Phase 1}} $: Add a GUI interface using tkinter.
+$ \color{blue}{\text{Phase 2}} $: Deploy as a web app using Streamlit or Flask.
+$ \color{green}{\text{Phase 3}} $: Support dynamic amounts and transaction notes.
