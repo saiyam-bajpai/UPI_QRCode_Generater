@@ -15,15 +15,22 @@
 ### 🚀 What It Does
 This script takes a simple **UPI ID** (e.g., `user@upi`) and instantly generates a scannable payment QR code image.  It strips away complex frameworks to show exactly how the library works under the hood.
 
+---
+
 ### 🛠️ How to Run
 1. Install the library:
    ```bash
    pip install qrcode[pil]
 
+---
+
 ### 🔮 Future Roadmap
 While currently a static script, I plan to evolve this into a live application:
 
->🟠 Phase 1: Add a GUI interface using tkinter.
->🔵 Phase 2: Deploy as a web app.
->🟢 Phase 3: Ensure Data security and transaction details encrypted.
+🟠 Phase 1: Add a GUI interface using tkinter.
 
+🔵 Phase 2: Deploy as a web app. 
+
+🟢 Phase 3: Ensure Data security and transaction details encrypted.
+
+---
