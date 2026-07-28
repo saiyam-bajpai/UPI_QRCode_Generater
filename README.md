@@ -23,7 +23,7 @@ This script takes a simple **UPI ID** (e.g., `user@upi`) and instantly generates
 ### 🔮 Future Roadmap
 While currently a static script, I plan to evolve this into a live application:
 
-🟠 Phase 1: Add a GUI interface using tkinter.
-🔵 Phase 2: Deploy as a web app.
-🟢 Phase 3: Ensure Data security and transaction details encrypted.
+>🟠 Phase 1: Add a GUI interface using tkinter.
+>🔵 Phase 2: Deploy as a web app.
+>🟢 Phase 3: Ensure Data security and transaction details encrypted.
 
